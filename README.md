@@ -4,13 +4,9 @@
 
 Eu me chamo Wendy, atualmente estou 18 anos, e sou natural do Espiríto Santo. Concluí meu ensino médio no EEEM Colégio Estadual do Espiríto Santo. Atualmente, estou cursando Informática no CEET Vasco Coutinho. Desde cedo venho cultivando uma paixão imensurável por tecnologia, estou em constante desenvolvimento e acredito ser capaz de pôr todo esse conhecimento em prática.
     <p>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+    <a href="https://github.com/Wendy-PS?tab=repositories&sort=stargazers">
             </p>
-
+            
 ---
 
 ### 🤖 Linguagens e Tecnologias
