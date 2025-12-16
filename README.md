@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Eu me chamo Wendy, atualmente estou 18 anos, e sou natural do Espiríto Santo. Concluí meu ensino médio no EEEM Colégio Estadual do Espiríto Santo. Atualmente, estou cursando Informática no CEET Vasco Coutinho. Desde cedo venho cultivando uma paixão imensurável por tecnologia, estou em constante desenvolvimento e acredito ser capaz de pôr todo esse conhecimento em prática.
+Eu me chamo Wendy, atualmente estou com 18 anos, e sou natural do Espiríto Santo. Concluí meu ensino médio no EEEM Colégio Estadual do Espiríto Santo. Atualmente, estou cursando Informática no CEET Vasco Coutinho. Desde cedo venho cultivando uma paixão imensurável por tecnologia, estou em constante desenvolvimento e acredito ser capaz de pôr todo esse conhecimento em prática.
     <p>
     <a href="https://github.com/Wendy-PS?tab=repositories&sort=stargazers">
             </p>
