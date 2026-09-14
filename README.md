@@ -1,4 +1,4 @@
-<div align="center" background-color: pink>
+<div align="center">
 
 # ─── ⋆⋅☆⋅⋆ ───
 # 💖 ✨ Bem-vindo(a)! ✨ 💖
