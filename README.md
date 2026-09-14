@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" background-color: pink>
 
 # ─── ⋆⋅☆⋅⋆ ───
 # 💖 ✨ Bem-vindo(a)! ✨ 💖
@@ -10,7 +10,7 @@
 
 <img src="https://media.tenor.com/J8NsfhauuXkAAAAM/jacinthe-pok%C3%A9mon.gif" width="300px" alt="Cute GIF" />
 
-</div background-color: pink>
+</div>
 
 <br>
 
