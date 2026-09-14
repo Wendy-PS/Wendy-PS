@@ -8,7 +8,7 @@
 
 ---
 
-<img src="https://media.tenor.com/J8NsfhauuXkAAAAM/jacinthe-pok%C3%A9mon.gif" width="220px" alt="Cute GIF" />
+<img src="https://media.tenor.com/J8NsfhauuXkAAAAM/jacinthe-pok%C3%A9mon.gif" width="300px" alt="Cute GIF" />
 
 </div>
 
