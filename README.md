@@ -8,7 +8,7 @@
 
 ---
 
-<img src="https://tenor.com/pt-BR/view/jacinthe-pokémon-legends-za-pokémon-legends-za-pleading-eyes-gif-2865253076739996025" width="220px" alt="Cute GIF" />
+<img src="https://media.tenor.com/J8NsfhauuXkAAAAM/jacinthe-pok%C3%A9mon.gif" width="220px" alt="Cute GIF" />
 
 </div>
 
