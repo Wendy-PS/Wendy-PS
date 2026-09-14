@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Wendy Pereira da Silva
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d9b0ce40-2507-4536-bc82-c15260739e99" /># 👩🏻‍💻 Wendy Pereira da Silva
 
 **`Desenvolvedora Front-end`**
 
-Olá, eu me chamo Wendy, atualmente estou com 18 anos de idade, sou natural do Espiríto Santo. Concluí meu ensino médio no EEEM Colégio Estadual do Espiríto Santo. Atualmente, estou cursando Informática no CEET Vasco Coutinho. Desde cedo venho cultivado uma paixão imensurável por tecnologia, viso sempre estar me desenvolvendo cada vez mais. Adoraria ter a oportunidade de pôr todo esse conhecimento adquirido em prática.
+Olá, eu me chamo Wendy, atualmente estou com 19 anos de idade, sou natural do Espiríto Santo. Concluí meu ensino médio no EEEM Colégio Estadual do Espiríto Santo. Atualmente, estou cursando superior em Análise e Desenvolvimento de Sistemas, e um técnico em Informática. Desde cedo venho cultivado uma paixão imensurável por tecnologia, viso sempre estar me desenvolvendo cada vez mais. Adoraria ter a oportunidade de pôr todo esse conhecimento adquirido em prática, então por favor, dê uma olhada no que tenho a oferecer ♥.
     <p>
     <a href="https://github.com/Wendy-PS?tab=repositories&sort=stargazers">
             </p>
@@ -34,6 +34,14 @@ Olá, eu me chamo Wendy, atualmente estou com 18 anos de idade, sou natural do E
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" 
 />
 <img 
     align="left" 
