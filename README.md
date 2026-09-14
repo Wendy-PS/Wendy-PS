@@ -41,7 +41,7 @@ Olá, eu me chamo Wendy, atualmente estou com 19 anos de idade, sou natural do E
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/+esm" 
+    src="<a href="https://iconscout.com/icons/java"
 />
 <img 
     align="left" 
