@@ -21,6 +21,6 @@
 🌸  Nome        : Wendy 
 ✨  Área        : Full-Stack / Front-End Developer / Software developer
 💖  Interesses  : Codar, Ler,  UI/UX, Backend & Doces
-☁️  Currently   : Cursando superior em Análise e Desenvolvimento de Sistemas & Técnico em Informática  
+☁️  Atualmente   : Cursando superior em Análise e Desenvolvimento de Sistemas & Técnico em Informática  
 📫  Contato     : wendywx100100@gmail.com
 ```
